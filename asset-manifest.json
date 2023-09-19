@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PrePower/static/css/main.85bf36ce.css",
-    "main.js": "/PrePower/static/js/main.b0eb86a2.js",
+    "main.js": "/PrePower/static/js/main.63eac266.js",
     "static/js/787.f65cfd4a.chunk.js": "/PrePower/static/js/787.f65cfd4a.chunk.js",
     "static/media/pharmacy.png": "/PrePower/static/media/pharmacy.7bd0d090c48a365a6658.png",
     "static/media/secretary.svg": "/PrePower/static/media/secretary.a0576d39f1ca16a5cf3a85f781378d08.svg",
@@ -26,11 +26,11 @@
     "static/media/windows.svg": "/PrePower/static/media/windows.f77fa623e6a9cf5b6b2728d622b880da.svg",
     "static/media/code.svg": "/PrePower/static/media/code.04d751b70502da12c433ea651d182e18.svg",
     "main.85bf36ce.css.map": "/PrePower/static/css/main.85bf36ce.css.map",
-    "main.b0eb86a2.js.map": "/PrePower/static/js/main.b0eb86a2.js.map",
+    "main.63eac266.js.map": "/PrePower/static/js/main.63eac266.js.map",
     "787.f65cfd4a.chunk.js.map": "/PrePower/static/js/787.f65cfd4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85bf36ce.css",
-    "static/js/main.b0eb86a2.js"
+    "static/js/main.63eac266.js"
   ]
 }

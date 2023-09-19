@@ -30,7 +30,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/PrePower" element={<Home/>} />
-        <Route path="/PrePower/operador-de-computador" element={<Operador/>} />
+        <Route path="/operador-de-computador" element={<Operador/>} />
         <Route path="/Saude" element={<Saude/>} />
         <Route path="/administracao" element={<Administrator/>} />
 
