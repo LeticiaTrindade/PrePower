@@ -1,0 +1,22 @@
+.navbar{
+    background-color: black !important;
+}
+
+.logo{
+height: 50px ;
+}
+
+.navbar-nav{
+    text-align: right !important;
+}
+.nav-link{
+    color: white;
+}
+.active{
+    color: yellow !important;
+}
+
+.disabled{
+    color: blue !important;
+}
+

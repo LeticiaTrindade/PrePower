@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/PrePower/static/css/main.85bf36ce.css",
+    "main.js": "/PrePower/static/js/main.b0eb86a2.js",
+    "static/js/787.f65cfd4a.chunk.js": "/PrePower/static/js/787.f65cfd4a.chunk.js",
+    "static/media/pharmacy.png": "/PrePower/static/media/pharmacy.7bd0d090c48a365a6658.png",
+    "static/media/secretary.svg": "/PrePower/static/media/secretary.a0576d39f1ca16a5cf3a85f781378d08.svg",
+    "static/media/elderly.svg": "/PrePower/static/media/elderly.cbd24d1a01ed1f6db11e0afd8e448102.svg",
+    "static/media/operation.svg": "/PrePower/static/media/operation.bde966be38b2cd8308c70b7e02e446b0.svg",
+    "static/media/math.svg": "/PrePower/static/media/math.2eaa2cf37d3683e8c66506821700b65f.svg",
+    "static/media/person-team.svg": "/PrePower/static/media/person-team.2a70ad9ddcb5be3dbcdce9b1cdf7850a.svg",
+    "static/media/health.svg": "/PrePower/static/media/health.665a01ae92646b8b8d25f2ac8dab98be.svg",
+    "static/media/word.svg": "/PrePower/static/media/word.6bd97dbfbd9dd45c0babba00abab00af.svg",
+    "static/media/profession-doctor.svg": "/PrePower/static/media/profession-doctor.87796203ad5168dff71636aaecf1cd40.svg",
+    "static/media/powerpoint.svg": "/PrePower/static/media/powerpoint.101cef76f501b9fd05364fec72a79bb7.svg",
+    "static/media/excel.svg": "/PrePower/static/media/excel.d8afdf8fbd6087926524d465d44551f4.svg",
+    "static/media/maintenance.svg": "/PrePower/static/media/maintenance.095802a633efdb5c5cb36566c3e3ce46.svg",
+    "static/media/front-desk.svg": "/PrePower/static/media/front-desk.4a2d04b12ed1fd6f3903c0adcb8f71ce.svg",
+    "static/media/building.svg": "/PrePower/static/media/building.5db219bf9133bcf81730e011e599bff7.svg",
+    "index.html": "/PrePower/index.html",
+    "static/media/outlook.svg": "/PrePower/static/media/outlook.3a8065e826db99a7e032288d1029db4d.svg",
+    "static/media/tooth.svg": "/PrePower/static/media/tooth.8a36113377deb6d20b9304b0576954e5.svg",
+    "static/media/pen.svg": "/PrePower/static/media/pen.649da2a7c1c7dfd68ec79b13b04abc3d.svg",
+    "static/media/introducao-a-informatica.svg": "/PrePower/static/media/introducao-a-informatica.9eb9d59951e8dcde313a4abd3c02e1ec.svg",
+    "static/media/book.svg": "/PrePower/static/media/book.f28a03233876f7f2e7ab70cbb1834614.svg",
+    "static/media/windows.svg": "/PrePower/static/media/windows.f77fa623e6a9cf5b6b2728d622b880da.svg",
+    "static/media/code.svg": "/PrePower/static/media/code.04d751b70502da12c433ea651d182e18.svg",
+    "main.85bf36ce.css.map": "/PrePower/static/css/main.85bf36ce.css.map",
+    "main.b0eb86a2.js.map": "/PrePower/static/js/main.b0eb86a2.js.map",
+    "787.f65cfd4a.chunk.js.map": "/PrePower/static/js/787.f65cfd4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85bf36ce.css",
+    "static/js/main.b0eb86a2.js"
+  ]
+}

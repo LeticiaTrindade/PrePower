@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(168, 6, 6);
+  
+}
+
+.body{
+  padding: 4rem 5rem;
+}
+
+.card{
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  border: none;
+  background-color: transparent;
+  padding:.7rem;
+  margin:.2rem;
+  }
+
+  .card h1{
+    font-size: 1rem;
+  }
+
+.category{
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-start;
+  margin: 1rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.disabled-course{
+  filter: opacity(0.2);
+}
+
+.page-title{
+  text-align: center;
+}
+
+.courses{
+  background-color: rgb(168, 6, 6);
+  padding: 10rem 5rem;
+}
+
+.icon{
+  width: 70px;
+  border-radius: 100px;
+  background-color: black;
+  padding: 0.5rem;
+}
+
+.left{
+  width: 50%;
+}
+
+.right{
+  width: 50%;
+}

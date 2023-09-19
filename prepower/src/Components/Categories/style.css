@@ -1,0 +1,15 @@
+.icon{
+    width: 80px;
+    border-radius: 100px;
+    background-color: black;
+    padding: 0.5rem;
+    margin-right: 1rem;
+}
+p{
+    margin-left: 0.5rem;
+}
+
+h1, p{
+    color: white;
+}
+
